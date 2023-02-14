@@ -4,4 +4,4 @@
 <a href="https://docs.plooshiesaresocute.wtf/"><img height="30px" src="https://img.shields.io/badge/proxy-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
 <a href="https://www.crazygames.com/"><img height="30px" src="https://img.shields.io/badge/crazygames-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
 <a href="https://www.tiktok.com/"><img height="30px" src="https://img.shields.io/badge/TikTok-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
-<a href="https://lime-victorious-gecko.cyclic.app/"><img height="30px" src="https://img.shields.io/badge/hypertabs1-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
+<a href="https://hypertabs.cc/"><img height="30px" src="https://img.shields.io/badge/hypertabs-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
