@@ -1,0 +1,1 @@
+javascript:(function(){var val = prompt("Enter the webpage you want to unblock. This will not work for games. Many sites will not be cached, and will not work.", "");location = "http://webcache.googleusercontent.com/search?q=cache:" + escape(val)})()
