@@ -1,1 +1,0 @@
-javascript:(function(){var val = prompt("Enter the url of the page you want to unblock, and exclude the https:// and the www. YOU MUST be on a website for this code to execute, if the url bar at the top of your screen is blank, this will not work.", "");location = "https://web.archive.org/web/" + escape(val)})()
