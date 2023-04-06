@@ -17,7 +17,7 @@ https://caracal-js.github.io/Incognito/
 https://docs.plooshiesaresocute.wtf/
 https://googleclassroom.titannetwork.info/
 
-untried proxies-
+unknow proxies-
 https://campusdirections.org/1.html
 https://proxy.baggette.cf/
 https://mathematicalsols.org/1.html
@@ -42,4 +42,16 @@ https://r.pluralsight.gq/
 https://coursera.cf/
 https://cloudflare.rammerhead.org/
 
-Bookmarlets-
+Bookmarlets- (MNW)May not work (W)Working
+(MNW)CasheUnblocker- javascript:(function(){var val = prompt("Enter the webpage you want to unblock. This will not work for games. Many sites will not be cached, and will not work.", "");location = "http://webcache.googleusercontent.com/search?q=cache:" + escape(val)})()
+(MNW)GoogleTranslateUnblocker- javascript:(function(){var val = prompt("Enter the url of the page you want to unblock, and exclude the https:// and the www. YOU MUST be on a website for this code to execute, if the url bar at the top of your screen is blank, this will not work.", "");location = "https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fwww." + escape(val)})()
+(MNW)WayBackUnblocker- javascript:(function(){var val = prompt("Enter the url of the page you want to unblock, and exclude the https:// and the www. YOU MUST be on a website for this code to execute, if the url bar at the top of your screen is blank, this will not work.", "");location = "https://web.archive.org/web/" + escape(val)})()
+(W)EditText1- javascript:if(document.body.contentEditable !== 'true') {document.body.contentEditable = 'true'; document.designMode='on'; void 0} else {document.body.contentEditable = 'false'; document.designMode='off'; void 0}
+
+
+
+
+
+
+
+
