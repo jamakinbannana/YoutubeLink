@@ -23,23 +23,28 @@
 	function bookmarklets() {
             location.href='http://github.com/jamakinbannana/YoutubeLink/blob/main/pages';
         }
-	function cookieclicker() {
-            location.href='https://jamakinbannana.github.io/cookieclicker/';
-        } 
 	function games() {
-            <button onclick="MadalinCars()">MadalinCars</button>
+            document.getElementById("c").innerHTML = "<button onclick="MadalinCars()">MadalinCars</button><button onclick="MadalinCars2()">MadalinCars2</button><button onclick="SubwaySurfer()">SubwaySurfer</button><button onclick="CookieClicker()">CookieClicker</button><button onclick="Sunset()">TanukiSunset</button>
         }
 	function MadalinCars()
 	{
-	    
+		location.href='https://jamakinbannana.github.io/MadalinCars/';
 	}
 	    function MadalinCars2()
 	{
-	    
+	    location.href='https://jamakinbannana.github.io/msc2-files/';
 	}
-	    function MadalinCars()
+	    function CookieClicker()
 	{
-	    
+	    location.href='https://jamakinbannana.github.io/cookieclicker/';
+	}
+	    function Sunset()
+	{
+	    location.href='https://jamakinbannana.github.io/tanuki-sunset/';
+	}
+	     function SubwaySurfer()
+	{
+	    location.href='https://jamakinbannana.github.io/cookieclicker/';
 	}
         function fullscreen() {
             var x = document.getElementById("header");
@@ -133,11 +138,9 @@
 </head>
 <button id="y" onclick=fullscreen()>↓</button><!--
 --><div id="header"><!--
-            --><button onclick="bing()">Bing Iframe</button><button onclick="games()">Games</button><button onclick="surfFreely()">Surf Freely</button><button onclick="bookmarklets()">Bookmarklets</button><button onclick="home()">Home</button><button onclick="cookieclicker()">CookieClicker</button>
+            --><button onclick="bing()">Bing Iframe</button><button onclick="games()">Games</button><button onclick="surfFreely()">Surf Freely
                 <form onsubmit="goToURL();">
-                    <input type="url" >
-                </form>
-              
+                    <input type="url" >         
             
             
        
