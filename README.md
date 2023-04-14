@@ -6,3 +6,4 @@
 <a href="https://hypertabs.cc/"><img height="30px" src="https://img.shields.io/badge/hypertabs-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
 <a href="https://remotedesktop.google.com/access"><img height="30px" src="https://img.shields.io/badge/RemoteDesk-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
 <a href="https://chat.openai.com/chat"><img height="30px" src="https://img.shields.io/badge/ChatGPT-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
+<a href="https://mem.rip/kahoot/"><img height="30px" src="https://img.shields.io/badge/KahootHacks-2e59c7.svg?style=for-the-badge&logo=cyclic&logoColor=white"><img></a>
